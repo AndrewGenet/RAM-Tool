@@ -1,0 +1,23 @@
+c:\users\geneta\documents\visual studio 2015\Projects\win32_physicalMemoryTool\win32_physicalMemoryTool\obj\Debug\win32_physicalMemoryTool.Form1.resources
+c:\users\geneta\documents\visual studio 2015\Projects\win32_physicalMemoryTool\win32_physicalMemoryTool\obj\Debug\win32_physicalMemoryTool.Properties.Resources.resources
+c:\users\geneta\documents\visual studio 2015\Projects\win32_physicalMemoryTool\win32_physicalMemoryTool\obj\Debug\win32_physicalMemoryTool.csproj.GenerateResource.Cache
+c:\users\geneta\documents\visual studio 2015\Projects\win32_physicalMemoryTool\win32_physicalMemoryTool\bin\Debug\win32_physicalMemoryTool.exe
+c:\users\geneta\documents\visual studio 2015\Projects\win32_physicalMemoryTool\win32_physicalMemoryTool\bin\Debug\win32_physicalMemoryTool.pdb
+c:\users\geneta\documents\visual studio 2015\Projects\win32_physicalMemoryTool\win32_physicalMemoryTool\obj\Debug\win32_physicalMemoryTool.exe
+c:\users\geneta\documents\visual studio 2015\Projects\win32_physicalMemoryTool\win32_physicalMemoryTool\obj\Debug\win32_physicalMemoryTool.pdb
+E:\win32_physicalMemoryTool\win32_physicalMemoryTool\obj\Debug\win32_physicalMemoryTool.exe
+E:\win32_physicalMemoryTool\win32_physicalMemoryTool\obj\Debug\win32_physicalMemoryTool.pdb
+E:\win32_physicalMemoryTool\win32_physicalMemoryTool\obj\Debug\win32_physicalMemoryTool.csprojResolveAssemblyReference.cache
+E:\win32_physicalMemoryTool\win32_physicalMemoryTool\obj\Debug\win32_physicalMemoryTool.Form1.resources
+E:\win32_physicalMemoryTool\win32_physicalMemoryTool\obj\Debug\win32_physicalMemoryTool.Properties.Resources.resources
+E:\win32_physicalMemoryTool\win32_physicalMemoryTool\obj\Debug\win32_physicalMemoryTool.csproj.GenerateResource.Cache
+E:\win32_physicalMemoryTool\win32_physicalMemoryTool\bin\Debug\win32_physicalMemoryTool.exe
+E:\win32_physicalMemoryTool\win32_physicalMemoryTool\bin\Debug\win32_physicalMemoryTool.pdb
+C:\Users\geneta\Documents\Visual Studio 2015\Projects\win32_physicalMemoryTool\RAM-Tool\win32_physicalMemoryTool\bin\Debug\win32_physicalMemoryTool.exe
+C:\Users\geneta\Documents\Visual Studio 2015\Projects\win32_physicalMemoryTool\RAM-Tool\win32_physicalMemoryTool\bin\Debug\win32_physicalMemoryTool.pdb
+C:\Users\geneta\Documents\Visual Studio 2015\Projects\win32_physicalMemoryTool\RAM-Tool\win32_physicalMemoryTool\obj\Debug\win32_physicalMemoryTool.csprojResolveAssemblyReference.cache
+C:\Users\geneta\Documents\Visual Studio 2015\Projects\win32_physicalMemoryTool\RAM-Tool\win32_physicalMemoryTool\obj\Debug\win32_physicalMemoryTool.Form1.resources
+C:\Users\geneta\Documents\Visual Studio 2015\Projects\win32_physicalMemoryTool\RAM-Tool\win32_physicalMemoryTool\obj\Debug\win32_physicalMemoryTool.Properties.Resources.resources
+C:\Users\geneta\Documents\Visual Studio 2015\Projects\win32_physicalMemoryTool\RAM-Tool\win32_physicalMemoryTool\obj\Debug\win32_physicalMemoryTool.csproj.GenerateResource.Cache
+C:\Users\geneta\Documents\Visual Studio 2015\Projects\win32_physicalMemoryTool\RAM-Tool\win32_physicalMemoryTool\obj\Debug\win32_physicalMemoryTool.exe
+C:\Users\geneta\Documents\Visual Studio 2015\Projects\win32_physicalMemoryTool\RAM-Tool\win32_physicalMemoryTool\obj\Debug\win32_physicalMemoryTool.pdb
