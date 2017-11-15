@@ -1,9 +1,11 @@
 # RAM-Tool
 Simple program that uses Win_32 Processes to retrieve information about the Physical Memory
 
+<br>
+<br>
+<br>
 
-
-License<br>
+License: <br>
 this code and compiled software is provided for demostration
 purposes only. It is provided AS IS and without any type of warranty
 (explicit or implied). Use it entirely at your own risk.
